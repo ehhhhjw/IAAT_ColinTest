@@ -1,0 +1,14 @@
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.wikipedia.alpha/org.wikipedia.main.MainActivity }
+
+Status: ok
+
+Activity: org.wikipedia.alpha/org.wikipedia.main.MainActivity
+
+ThisTime: 1342
+
+TotalTime: 1342
+
+WaitTime: 1364
+
+Complete
+

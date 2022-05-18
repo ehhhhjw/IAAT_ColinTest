@@ -1,0 +1,598 @@
+2020-02-06 19:04:04,189 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:04:06,335 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/et_username, Tested: false , Father: Null
+2020-02-06 19:04:06,336 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/et_password, Tested: false , Father: Null
+2020-02-06 19:04:06,336 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/btn_login, Tested: false , Father: Null
+2020-02-06 19:04:07,343 mergeTest.DFSRunner - Sleep 3 seconds
+2020-02-06 19:04:14,660 mergeTest.DFSRunner - Screenshot has been saved successfully
+2020-02-06 19:04:14,985 mergeTest.DFSRunner - .Launcher's index is 0/3
+2020-02-06 19:04:14,986 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/et_username
+2020-02-06 19:04:15,109 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/et_username
+2020-02-06 19:04:15,109 mergeTest.DFSRunner - .Launcher's index is 1/3
+2020-02-06 19:04:15,110 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/et_password
+2020-02-06 19:04:15,188 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/et_password
+2020-02-06 19:04:15,188 mergeTest.DFSRunner - .Launcher's index is 2/3
+2020-02-06 19:04:15,189 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/btn_login
+2020-02-06 19:04:15,256 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/btn_login
+2020-02-06 19:04:15,256 mergeTest.DFSRunner - Going to return beacuse this page has done
+
+2020-02-06 19:04:15,357 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:04:17,322 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:04:19,550 mergeTest.DFSRunner - Current activity is .Launcher
+2020-02-06 19:04:19,551 mergeTest.DFSRunner - Return start activity is.Launcher
+2020-02-06 19:04:19,551 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:04:20,106 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:04:22,289 mergeTest.DFSRunner - Current activity is .Launcher
+2020-02-06 19:04:22,289 mergeTest.DFSRunner - Return start activity is.Launcher
+2020-02-06 19:04:22,290 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:04:22,774 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:04:24,870 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:04:25,590 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:04:27,773 mergeTest.DFSRunner - Current activity is .Launcher
+2020-02-06 19:04:27,773 mergeTest.DFSRunner - Return start activity is.Launcher
+2020-02-06 19:05:06,172 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:05:15,479 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:05:17,610 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: false , Father: Null
+2020-02-06 19:05:17,610 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:17,611 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:05:17,613 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:17,614 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:05:17,615 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:17,615 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:17,616 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:05:17,616 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:18,112 mergeTest.DFSRunner - Sleep 3 seconds
+2020-02-06 19:05:22,188 mergeTest.DFSRunner - Screenshot has been saved successfully
+2020-02-06 19:05:22,428 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 0/15
+2020-02-06 19:05:22,428 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:22,444 mergeTest.DFSRunner - Click component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:24,297 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:05:30,809 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode, Tested: false , Father: Null
+2020-02-06 19:05:30,809 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view, Tested: false , Father: Null
+2020-02-06 19:05:30,809 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container, Tested: false , Father: Null
+2020-02-06 19:05:30,809 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')], Tested: false , Father: Null
+2020-02-06 19:05:30,809 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:30,810 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:30,810 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:30,810 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:05:30,811 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:30,812 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:30,812 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:05:30,812 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:30,813 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:05:30,813 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:30,813 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:30,813 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')], Tested: false , Father: Null
+2020-02-06 19:05:30,814 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:30,815 mergeTest.DFSRunner - After set father component
+2020-02-06 19:05:30,815 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode, Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,815 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view, Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,815 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container, Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,816 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,817 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,817 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,817 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: true , Father: Null
+2020-02-06 19:05:30,817 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:05:30,817 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:05:30,817 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:05:30,818 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:05:30,818 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:05:30,818 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:30,818 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:30,818 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:05:30,819 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:30,819 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:05:30,819 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:05:30,819 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:05:30,819 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:30,820 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:05:30,820 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:05:30,820 mergeTest.DFSRunner - Click Return button because handled father components
+2020-02-06 19:05:31,559 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:05:33,632 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 0/28
+2020-02-06 19:05:33,632 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:35,069 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:05:41,192 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode
+2020-02-06 19:05:41,226 mergeTest.DFSRunner - Click component com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode
+2020-02-06 19:05:42,687 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:05:49,414 mergeTest.DFSRunner - The page has not changed
+2020-02-06 19:05:49,415 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 1/28
+2020-02-06 19:05:49,416 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view is a component in ignore file, skip to next one
+2020-02-06 19:05:49,417 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 2/28
+2020-02-06 19:05:49,417 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:05:51,435 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:05:57,541 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/header_container
+2020-02-06 19:05:57,559 mergeTest.DFSRunner - Click component com.hotbitmapgg.ohmybilibili:id/header_container
+2020-02-06 19:06:01,423 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:08,846 mergeTest.DFSRunner - The UI components have changed
+2020-02-06 19:06:09,055 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view, Tested: false , Father: Null
+2020-02-06 19:06:09,055 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container, Tested: false , Father: Null
+2020-02-06 19:06:09,055 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')], Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:06:09,056 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')], Tested: false , Father: Null
+2020-02-06 19:06:09,057 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - Update the activity because the different components are less than half
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view, Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container, Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')], Tested: false , Father: Null
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,058 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: true , Father: Null
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:06:09,059 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:06:09,060 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:06:09,060 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:09,060 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:09,060 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:06:09,060 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode, Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 0/29
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view is a component in ignore file, skip to next one
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 1/29
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container has been tested, skip to next one
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 2/29
+2020-02-06 19:06:09,061 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')]
+2020-02-06 19:06:09,171 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')]
+2020-02-06 19:06:09,171 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 3/29
+2020-02-06 19:06:09,172 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:11,237 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:17,310 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')]
+2020-02-06 19:06:17,361 mergeTest.DFSRunner - Click component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')]
+2020-02-06 19:06:18,342 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:25,110 mergeTest.DFSRunner - The page has not changed
+2020-02-06 19:06:25,110 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 4/29
+2020-02-06 19:06:25,110 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:27,229 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:33,342 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')]
+2020-02-06 19:06:33,444 mergeTest.DFSRunner - Click component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')]
+2020-02-06 19:06:35,178 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:41,971 mergeTest.DFSRunner - The page has not changed
+2020-02-06 19:06:41,972 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 5/29
+2020-02-06 19:06:41,972 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:43,959 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:50,040 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')]
+2020-02-06 19:06:50,109 mergeTest.DFSRunner - Click component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')]
+2020-02-06 19:06:51,013 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:06:57,878 mergeTest.DFSRunner - The UI components have changed
+2020-02-06 19:06:57,912 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@index,'0')], Tested: false , Father: Null
+2020-02-06 19:06:57,912 mergeTest.DFSRunner - Reset this activity's index, beacause the different components are more than half
+2020-02-06 19:06:58,662 mergeTest.DFSRunner - New screenshot has been saved successfully
+2020-02-06 19:06:59,860 mergeTest.DFSRunner - Merge images successfully
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@index,'0')], Tested: false , Father: Null
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view, Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container, Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')], Tested: false , Father: Null
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')], Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')], Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')], Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,861 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: true , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:59,862 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:06:59,863 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:59,863 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:06:59,863 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:06:59,864 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:06:59,865 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,872 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:06:59,872 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode, Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,873 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:06:59,874 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:06:59,874 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 0/30
+2020-02-06 19:06:59,875 mergeTest.DFSRunner - Try to locate //android.widget.ImageButton[contains(@index,'0')]
+2020-02-06 19:06:59,946 mergeTest.DFSRunner - Click component //android.widget.ImageButton[contains(@index,'0')]
+2020-02-06 19:07:01,144 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:07:07,766 mergeTest.DFSRunner - The UI components have changed
+2020-02-06 19:07:08,184 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@index,'0')], Tested: false , Father: Null
+2020-02-06 19:07:08,184 mergeTest.DFSRunner - Update the activity because the different components are less than half
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@index,'0')], Tested: true , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view, Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container, Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')], Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')], Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')], Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')], Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout, Tested: true , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_game, Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_download, Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/id_action_search, Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')], Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')], Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:07:08,185 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn, Tested: false , Father: Null
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'5')], Tested: false , Father: Null
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode, Tested: true , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')], Tested: false , Father: com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'4')], Tested: false , Father: Null
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 0/30
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@index,'0')] has been tested, skip to next one
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 1/30
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/background_image_view is a component in ignore file, skip to next one
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 2/30
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/header_container has been tested, skip to next one
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 3/30
+2020-02-06 19:07:08,186 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')]
+2020-02-06 19:07:08,239 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][1,384]')]
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 4/30
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'2')] has been tested, skip to next one
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 5/30
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'3')] has been tested, skip to next one
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 6/30
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - //android.support.v7.widget.LinearLayoutCompat[contains(@index,'5')] has been tested, skip to next one
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 7/30
+2020-02-06 19:07:08,240 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,510 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,510 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')]
+2020-02-06 19:07:08,571 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'6')]
+2020-02-06 19:07:08,571 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 8/30
+2020-02-06 19:07:08,571 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,586 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,586 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')]
+2020-02-06 19:07:08,629 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'7')]
+2020-02-06 19:07:08,629 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 9/30
+2020-02-06 19:07:08,629 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,671 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,671 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')]
+2020-02-06 19:07:08,723 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'8')]
+2020-02-06 19:07:08,723 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 10/30
+2020-02-06 19:07:08,724 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,758 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,758 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')]
+2020-02-06 19:07:08,820 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'10')]
+2020-02-06 19:07:08,821 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 11/30
+2020-02-06 19:07:08,821 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,849 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:08,849 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')]
+2020-02-06 19:07:08,890 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@index,'11')]
+2020-02-06 19:07:08,890 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 12/30
+2020-02-06 19:07:08,890 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/navigation_layout has been tested, skip to next one
+2020-02-06 19:07:08,890 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 13/30
+2020-02-06 19:07:08,890 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/id_action_game
+2020-02-06 19:07:08,913 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/id_action_game
+2020-02-06 19:07:08,913 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 14/30
+2020-02-06 19:07:08,913 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/id_action_download
+2020-02-06 19:07:08,947 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/id_action_download
+2020-02-06 19:07:08,947 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 15/30
+2020-02-06 19:07:08,947 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/id_action_search
+2020-02-06 19:07:08,979 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/id_action_search
+2020-02-06 19:07:08,979 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 16/30
+2020-02-06 19:07:08,979 mergeTest.DFSRunner - Try to locate //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')]
+2020-02-06 19:07:09,042 mergeTest.DFSRunner - Can't locate component //android.widget.RelativeLayout[contains(@bounds,'[15,122][100,194]')]
+2020-02-06 19:07:09,042 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 17/30
+2020-02-06 19:07:09,043 mergeTest.DFSRunner - Try to locate //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')]
+2020-02-06 19:07:09,091 mergeTest.DFSRunner - Can't locate component //android.widget.RelativeLayout[contains(@bounds,'[100,122][185,194]')]
+2020-02-06 19:07:09,091 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 18/30
+2020-02-06 19:07:09,091 mergeTest.DFSRunner - Try to locate //android.widget.RelativeLayout[contains(@index,'2')]
+2020-02-06 19:07:09,127 mergeTest.DFSRunner - Can't locate component //android.widget.RelativeLayout[contains(@index,'2')]
+2020-02-06 19:07:09,127 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 19/30
+2020-02-06 19:07:09,127 mergeTest.DFSRunner - Try to locate //android.widget.RelativeLayout[contains(@index,'3')]
+2020-02-06 19:07:09,177 mergeTest.DFSRunner - Can't locate component //android.widget.RelativeLayout[contains(@index,'3')]
+2020-02-06 19:07:09,177 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 20/30
+2020-02-06 19:07:09,177 mergeTest.DFSRunner - Try to locate //android.widget.RelativeLayout[contains(@index,'4')]
+2020-02-06 19:07:09,237 mergeTest.DFSRunner - Can't locate component //android.widget.RelativeLayout[contains(@index,'4')]
+2020-02-06 19:07:09,237 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 21/30
+2020-02-06 19:07:09,237 mergeTest.DFSRunner - Try to locate //android.widget.RelativeLayout[contains(@index,'5')]
+2020-02-06 19:07:09,285 mergeTest.DFSRunner - Can't locate component //android.widget.RelativeLayout[contains(@index,'5')]
+2020-02-06 19:07:09,285 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 22/30
+2020-02-06 19:07:09,285 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn
+2020-02-06 19:07:09,319 mergeTest.DFSRunner - Can't locate component com.hotbitmapgg.ohmybilibili:id/item_type_rank_btn
+2020-02-06 19:07:09,319 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 23/30
+2020-02-06 19:07:09,319 mergeTest.DFSRunner - Try to locate //android.widget.FrameLayout[contains(@index,'2')]
+2020-02-06 19:07:09,377 mergeTest.DFSRunner - Can't locate component //android.widget.FrameLayout[contains(@index,'2')]
+2020-02-06 19:07:09,378 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 24/30
+2020-02-06 19:07:09,378 mergeTest.DFSRunner - Try to locate //android.widget.FrameLayout[contains(@index,'3')]
+2020-02-06 19:07:09,827 mergeTest.DFSRunner - Can't locate component //android.widget.FrameLayout[contains(@index,'3')]
+2020-02-06 19:07:09,827 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 25/30
+2020-02-06 19:07:09,827 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:09,857 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:09,857 mergeTest.DFSRunner - Try to locate //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')]
+2020-02-06 19:07:09,922 mergeTest.DFSRunner - Can't locate component //android.widget.FrameLayout[contains(@bounds,'[15,788][255,960]')]
+2020-02-06 19:07:09,922 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 26/30
+2020-02-06 19:07:09,922 mergeTest.DFSRunner - Try to locate //android.widget.FrameLayout[contains(@index,'5')]
+2020-02-06 19:07:09,969 mergeTest.DFSRunner - Can't locate component //android.widget.FrameLayout[contains(@index,'5')]
+2020-02-06 19:07:09,969 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 27/30
+2020-02-06 19:07:09,970 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/iv_head_switch_mode has been tested, skip to next one
+2020-02-06 19:07:09,970 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 28/30
+2020-02-06 19:07:09,970 mergeTest.DFSRunner - Click father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:09,999 mergeTest.DFSRunner - Can't locate father component com.hotbitmapgg.ohmybilibili:id/navigation_layout
+2020-02-06 19:07:10,000 mergeTest.DFSRunner - Try to locate //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')]
+2020-02-06 19:07:10,053 mergeTest.DFSRunner - Can't locate component //android.support.v7.widget.LinearLayoutCompat[contains(@bounds,'[0,312][450,384]')]
+2020-02-06 19:07:10,053 mergeTest.DFSRunner - com.hotbitmapgg.bilibili.module.common.MainActivity's index is 29/30
+2020-02-06 19:07:10,053 mergeTest.DFSRunner - Try to locate //android.widget.FrameLayout[contains(@index,'4')]
+2020-02-06 19:07:10,110 mergeTest.DFSRunner - Can't locate component //android.widget.FrameLayout[contains(@index,'4')]
+2020-02-06 19:07:10,110 mergeTest.DFSRunner - Going to return beacuse this page has done
+
+2020-02-06 19:07:10,196 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:07:10,705 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:07:12,851 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:07:12,851 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:07:12,851 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:07:13,743 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:07:15,872 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:07:15,872 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:07:15,872 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:07:16,659 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:07:18,763 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:07:19,274 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:07:21,422 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:07:21,422 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:07:55,992 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:08:06,808 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:08:16,852 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:08:18,888 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@content-desc,'转到上一层级')], Tested: false , Father: Null
+2020-02-06 19:08:18,888 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/vip_game_image, Tested: false , Father: Null
+2020-02-06 19:08:18,888 mergeTest.DFSRunner - //android.widget.Button[contains(@bounds,'[420,504][525,557]')], Tested: false , Father: Null
+2020-02-06 19:08:18,888 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@bounds,'[0,238][540,583]')], Tested: false , Father: Null
+2020-02-06 19:08:18,888 mergeTest.DFSRunner - //android.widget.Button[contains(@bounds,'[420,864][525,917]')], Tested: false , Father: Null
+2020-02-06 19:08:18,889 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:08:18,889 mergeTest.DFSRunner - //android.widget.FrameLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:08:19,500 mergeTest.DFSRunner - Going to return because this page is over
+2020-02-06 19:08:19,610 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:08:20,091 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:08:22,846 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:08:22,846 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:08:22,846 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:08:23,373 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:08:25,610 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:08:25,610 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:08:25,610 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:08:26,976 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:08:29,175 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:08:29,979 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:08:32,170 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:08:32,170 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:09:07,683 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:09:17,986 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:09:28,761 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:09:38,081 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.widget.Button[contains(@text,'立即开通')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@content-desc,'转到上一层级')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - v, Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'钛合金画质')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员专享1080P画质（需要片源支持）')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[393,625][394,649]')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员可享番剧和影视1080P画质，觉醒超凡视觉体验')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'评论有表情')], Tested: false , Father: Null
+2020-02-06 19:09:40,177 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员专享评论区表情包')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[0,457][0,457]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员可在评论中发送图片表情，表情包将不定期更新丰富')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'空间自主头图')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员专享自定义空间头图')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[0,457][0,457]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员可上传个性化图片来装扮个人空间头图，让自己的空间独具魅力')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[0,457][0,457]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'Web网页与Pad客户端为横版大屏头图互相同步；手机客户端为竖版头图，请独立上传')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - yv, Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'每月返B币')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'年度大会员即可每月领5B币')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[273,1393][274,1417]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'兑换年度大会员成功后，当天领取5B币券，次月的10日定月发放5B币券，持续到年度大会员时长结束')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[462,1456][463,1480]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'B币券不可消费兑换大会员，支持在充电/承包/直播等其他渠道消费。B币券具有有效期，当月B币券的到期时间为次月的9日23:59:59，请在到期前尽快消费')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'尊贵粉色昵称')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'年度大会员昵称粉色高亮')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[0,457][0,457]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'年费大会员用户的昵称将以粉色高亮显示')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'游戏福利礼包')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'年度大会员专享游戏礼包')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[0,457][0,457]')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'年度大会员可在游戏礼包中心领取不同游戏的多款超值礼包，礼包中心礼包数量和礼包内容都将不定时更新')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'周边折扣物语')], Tested: false , Father: Null
+2020-02-06 19:09:40,178 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'年度大会员享周边劲爆折扣')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@bounds,'[0,457][0,457]')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'除了正常享受活动折扣外，年度大会员在周边商城购买周边商品还将享专属折上折的超低优惠价')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'友情提示：')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'1、')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'大会员1个月时长按31天计算，1年按366天计算')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'2、')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'直接开通1年的大会员，直升年度大会员')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'3、')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'当购买的大会员剩余时长≥366天时，自动转为年度大会员')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'4、')], Tested: false , Father: Null
+2020-02-06 19:09:40,179 mergeTest.DFSRunner - //android.view.View[contains(@content-desc,'当年度大会员续期后的时长不满366天时，默认新续期的为月度大会员')], Tested: false , Father: Null
+2020-02-06 19:09:40,878 mergeTest.DFSRunner - Going to return because this page is over
+2020-02-06 19:09:41,546 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:09:42,130 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:09:44,342 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:09:44,342 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:09:44,342 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:09:45,739 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:09:47,876 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:09:47,876 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:09:47,876 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:09:48,352 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:09:50,801 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:09:51,873 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:09:54,025 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:09:54,025 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:10:29,119 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:10:39,527 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:10:49,862 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:10:59,008 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:11:01,215 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@index,'0')], Tested: false , Father: Null
+2020-02-06 19:11:01,215 mergeTest.DFSRunner - //android.widget.ImageView[contains(@content-desc,'更多选项')], Tested: false , Father: Null
+2020-02-06 19:11:01,601 mergeTest.DFSRunner - Going to return because this page is over
+2020-02-06 19:11:01,699 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:11:02,211 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:11:04,849 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:11:04,849 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:11:04,849 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:11:05,341 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:11:07,527 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:11:07,528 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:11:07,528 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:11:07,984 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:11:10,316 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:11:10,896 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:11:13,516 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:11:13,516 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:11:49,302 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:12:00,263 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:12:11,155 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:12:21,613 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:12:32,486 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:12:52,163 mergeTest.DFSRunner - openExecuteKeyEvent
+2020-02-06 19:12:53,302 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:12:58,496 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_back, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_edit, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_text_clear, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_img, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[0,128][86,200]')], Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[86,128][198,200]')], Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'2')], Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@index,'3')], Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_sorting_layout, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_duration_layout, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/search_region_layout, Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[0,287][540,512]')], Tested: false , Father: Null
+2020-02-06 19:13:00,575 mergeTest.DFSRunner - //android.widget.RelativeLayout[contains(@bounds,'[0,527][540,752]')], Tested: false , Father: Null
+2020-02-06 19:13:00,576 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/item_view, Tested: false , Father: Null
+2020-02-06 19:13:01,091 mergeTest.DFSRunner - Going to return because this page is over
+2020-02-06 19:13:01,848 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:13:02,397 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:13:04,552 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:13:04,553 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:13:04,553 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:13:05,511 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:13:07,714 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:13:07,714 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:13:07,714 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:13:08,210 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:13:10,290 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:13:11,366 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:13:13,565 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:13:13,565 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:13:47,696 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:13:58,464 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:14:09,064 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:14:19,309 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:14:29,127 mergeTest.DFSRunner - Sleep 3 seconds
+2020-02-06 19:14:36,557 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:14:46,863 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:14:55,953 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:14:58,199 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@content-desc,'转到上一层级')], Tested: false , Father: Null
+2020-02-06 19:14:58,199 mergeTest.DFSRunner - //android.widget.TextView[contains(@text,'https://github.com/HotBitmapGG')], Tested: false , Father: Null
+2020-02-06 19:14:58,199 mergeTest.DFSRunner - //android.widget.TextView[contains(@text,'新浪微博:http://m.weibo.cn/users/3223089177/qq')], Tested: false , Father: Null
+2020-02-06 19:14:58,199 mergeTest.DFSRunner - //android.widget.TextView[contains(@text,'简书:http://www.jianshu.com/notebooks/5181955/latest')], Tested: false , Father: Null
+2020-02-06 19:14:58,671 mergeTest.DFSRunner - Going to return because this page is over
+2020-02-06 19:14:58,826 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:14:59,318 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:15:01,505 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:15:01,505 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:15:01,505 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:15:02,158 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:15:04,581 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:15:04,581 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:15:04,581 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:15:05,080 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:15:07,170 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:15:08,393 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:15:10,565 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:15:10,565 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:15:45,752 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:15:55,984 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:16:06,251 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:16:16,562 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:16:26,367 mergeTest.DFSRunner - Sleep 3 seconds
+2020-02-06 19:16:33,863 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:16:44,433 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:16:57,317 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:17:08,572 mergeTest.DFSRunner - Sleep 6 seconds
+2020-02-06 19:17:18,054 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:17:20,086 mergeTest.DFSRunner - //android.widget.ImageButton[contains(@content-desc,'转到上一层级')], Tested: false , Father: Null
+2020-02-06 19:17:20,086 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/tv_network_diagnosis, Tested: false , Father: Null
+2020-02-06 19:17:20,086 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/tv_share_app, Tested: false , Father: Null
+2020-02-06 19:17:20,086 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/tv_feedback, Tested: false , Father: Null
+2020-02-06 19:17:20,529 mergeTest.DFSRunner - Going to return because this page is over
+2020-02-06 19:17:20,668 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:17:21,697 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:17:23,832 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:17:23,832 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:17:23,832 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:17:24,585 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:17:26,771 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:17:26,771 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:17:26,771 mergeTest.DFSRunner - Click Return button because this page has done
+2020-02-06 19:17:28,470 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:17:30,538 mergeTest.DFSRunner - Click Home button because has tried more than 3 times
+2020-02-06 19:17:31,028 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-06 19:17:34,213 mergeTest.DFSRunner - Current activity is com.hotbitmapgg.bilibili.module.common.MainActivity
+2020-02-06 19:17:34,213 mergeTest.DFSRunner - Return start activity iscom.hotbitmapgg.bilibili.module.common.MainActivity

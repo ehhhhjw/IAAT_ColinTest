@@ -1,0 +1,16 @@
+com.hotbitmapgg.bilibili.module.common.LoginActivity
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher
+.Launcher

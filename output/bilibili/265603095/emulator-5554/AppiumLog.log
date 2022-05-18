@@ -1,0 +1,153 @@
+2020-02-08 17:03:03:646 - [Appium] Welcome to Appium v1.9.1
+2020-02-08 17:03:03:647 - [Appium] Non-default server args:
+2020-02-08 17:03:03:648 - [Appium]   address: 127.0.0.1
+2020-02-08 17:03:03:648 - [Appium]   port: 4730
+2020-02-08 17:03:03:648 - [Appium]   log: output\Bilibili\265603095\emulator-5554\ExceptionLog.log
+2020-02-08 17:03:03:648 - [Appium]   loglevel: info:error
+2020-02-08 17:03:03:648 - [Appium]   logTimestamp: true
+2020-02-08 17:03:03:648 - [Appium]   localTimezone: true
+2020-02-08 17:03:03:649 - [Appium]   logNoColors: true
+2020-02-08 17:03:03:649 - [Appium]   udid: emulator-5554
+2020-02-08 17:03:03:649 - [Appium] Deprecated server args:
+2020-02-08 17:03:03:649 - [Appium]   -U,--udid => --default-capabilities '{"udid":"emulator-5554"}'
+2020-02-08 17:03:03:649 - [Appium] Default capabilities, which will be added to each request unless overridden by desired capabilities:
+2020-02-08 17:03:03:650 - [Appium]   udid: emulator-5554
+2020-02-08 17:03:03:680 - [Appium] Appium REST http interface listener started on 127.0.0.1:4730
+2020-02-08 17:03:17:082 - [HTTP] --> POST /wd/hub/session
+2020-02-08 17:03:17:083 - [HTTP] {"desiredCapabilities":{"app":"D:\\myWorkSpace\\mergeTest\\apk\\Bilibili.apk","appPackage":"com.hotbitmapgg.ohmybilibili","appActivity":"com.hotbitmapgg.bilibili.module.common.SplashActivity","newCommandTimeout":600,"platformVersion":"4.1.2","browserName":"","unicodeKeyboard":"true","platformName":"Android","udid":"emulator-5554","deviceName":"Android Emulator","resetKeyboard":"true"}}
+2020-02-08 17:03:17:087 - [Appium] Creating new AndroidDriver (v4.1.1) session
+2020-02-08 17:03:17:087 - [Appium] Capabilities:
+2020-02-08 17:03:17:087 - [Appium]   udid: emulator-5554
+2020-02-08 17:03:17:087 - [Appium]   app: D:\myWorkSpace\mergeTest\apk\Bilibili.apk
+2020-02-08 17:03:17:087 - [Appium]   appPackage: com.hotbitmapgg.ohmybilibili
+2020-02-08 17:03:17:087 - [Appium]   appActivity: com.hotbitmapgg.bilibili.module.common.SplashActivity
+2020-02-08 17:03:17:087 - [Appium]   newCommandTimeout: 600
+2020-02-08 17:03:17:087 - [Appium]   platformVersion: 4.1.2
+2020-02-08 17:03:17:088 - [Appium]   browserName: 
+2020-02-08 17:03:17:088 - [Appium]   unicodeKeyboard: true
+2020-02-08 17:03:17:088 - [Appium]   platformName: Android
+2020-02-08 17:03:17:088 - [Appium]   deviceName: Android Emulator
+2020-02-08 17:03:17:088 - [Appium]   resetKeyboard: true
+2020-02-08 17:03:17:091 - [BaseDriver] Capability 'unicodeKeyboard' changed from string to boolean. This may cause unexpected behavior
+2020-02-08 17:03:17:092 - [BaseDriver] Capability 'resetKeyboard' changed from string to boolean. This may cause unexpected behavior
+2020-02-08 17:03:17:094 - [BaseDriver] Session created with session id: c2e8f89e-f683-490e-8179-2c9ffe6c1e42
+2020-02-08 17:03:17:214 - [AndroidDriver] Java version is: 1.8.0_231
+2020-02-08 17:03:17:215 - [ADB] Checking whether adb is present
+2020-02-08 17:03:17:219 - [ADB] Found 3 'build-tools' folders under 'D:\android-sdk-windows' (newest first):
+2020-02-08 17:03:17:219 - [ADB]     D:/android-sdk-windows/build-tools/29.0.2
+2020-02-08 17:03:17:219 - [ADB]     D:/android-sdk-windows/build-tools/29.0.0
+2020-02-08 17:03:17:219 - [ADB]     D:/android-sdk-windows/build-tools/24.0.0
+2020-02-08 17:03:17:220 - [ADB] Using adb.exe from D:\android-sdk-windows\platform-tools\adb.exe
+2020-02-08 17:03:17:220 - [AndroidDriver] Retrieving device list
+2020-02-08 17:03:17:253 - [AndroidDriver] Using device: emulator-5554
+2020-02-08 17:03:17:290 - [BaseDriver] Using local app 'D:\myWorkSpace\mergeTest\apk\Bilibili.apk'
+2020-02-08 17:03:17:291 - [AndroidDriver] Starting Android session
+2020-02-08 17:03:17:561 - [ADB] Checking whether aapt is present
+2020-02-08 17:03:17:563 - [ADB] Using aapt.exe from D:\android-sdk-windows\build-tools\29.0.2\aapt.exe
+2020-02-08 17:03:19:975 - [AndroidDriver] setDeviceLanguageCountry requires language or country.
+2020-02-08 17:03:19:976 - [AndroidDriver] Got language: 'null' and country: 'null'
+2020-02-08 17:03:21:889 - [ADB] Getting device platform version
+2020-02-08 17:03:31:510 - [ADB] Successfully extracted 207 strings from 'D:\myWorkSpace\mergeTest\apk\Bilibili.apk' resources for '(default)' configuration
+2020-02-08 17:03:31:940 - [ADB] No uiautomator process found to kill, continuing...
+2020-02-08 17:03:32:278 - [AndroidBootstrap] Android bootstrap socket is now connected
+2020-02-08 17:03:32:354 - [AndroidDriver] Screen already unlocked, doing nothing
+2020-02-08 17:03:34:335 - [Appium] New AndroidDriver session created successfully, session c2e8f89e-f683-490e-8179-2c9ffe6c1e42 added to master session list
+2020-02-08 17:03:34:345 - [HTTP] <-- POST /wd/hub/session 200 17260 ms - 1107
+2020-02-08 17:03:34:346 - [HTTP] 
+2020-02-08 17:03:34:573 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:34:573 - [HTTP] {}
+2020-02-08 17:03:36:311 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 1734 ms - 240942
+2020-02-08 17:03:36:311 - [HTTP] 
+2020-02-08 17:03:37:945 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:37:945 - [HTTP] {}
+2020-02-08 17:03:39:677 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 1731 ms - 114626
+2020-02-08 17:03:39:677 - [HTTP] 
+2020-02-08 17:03:41:104 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:41:104 - [HTTP] {}
+2020-02-08 17:03:42:094 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 988 ms - 114626
+2020-02-08 17:03:42:094 - [HTTP] 
+2020-02-08 17:03:44:021 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:44:021 - [HTTP] {}
+2020-02-08 17:03:44:421 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 399 ms - 114626
+2020-02-08 17:03:44:421 - [HTTP] 
+2020-02-08 17:03:44:583 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source
+2020-02-08 17:03:44:583 - [HTTP] {}
+2020-02-08 17:03:44:708 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source 200 126 ms - 9387
+2020-02-08 17:03:44:709 - [HTTP] 
+2020-02-08 17:03:45:701 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:45:702 - [HTTP] {}
+2020-02-08 17:03:46:084 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 382 ms - 114982
+2020-02-08 17:03:46:084 - [HTTP] 
+2020-02-08 17:03:46:968 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source
+2020-02-08 17:03:46:970 - [HTTP] {}
+2020-02-08 17:03:47:040 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source 200 72 ms - 9387
+2020-02-08 17:03:47:040 - [HTTP] 
+2020-02-08 17:03:47:069 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:47:070 - [HTTP] {}
+2020-02-08 17:03:47:151 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 81 ms - 126
+2020-02-08 17:03:47:151 - [HTTP] 
+2020-02-08 17:03:47:157 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/contexts
+2020-02-08 17:03:47:157 - [HTTP] {}
+2020-02-08 17:03:47:225 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/contexts 200 67 ms - 132
+2020-02-08 17:03:47:225 - [HTTP] 
+2020-02-08 17:03:47:240 - [HTTP] --> POST /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/keyevent
+2020-02-08 17:03:47:241 - [HTTP] {"keycode":4}
+2020-02-08 17:03:47:244 - [AndroidDriver] keyevent will be deprecated use pressKeyCode
+2020-02-08 17:03:47:287 - [HTTP] <-- POST /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/keyevent 200 46 ms - 76
+2020-02-08 17:03:47:287 - [HTTP] 
+2020-02-08 17:03:47:291 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:47:291 - [HTTP] {}
+2020-02-08 17:03:47:340 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:47:340 - [HTTP] {}
+2020-02-08 17:03:47:506 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 214 ms - 83
+2020-02-08 17:03:47:506 - [HTTP] 
+2020-02-08 17:03:47:510 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source
+2020-02-08 17:03:47:510 - [HTTP] {}
+2020-02-08 17:03:48:073 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 731 ms - 138058
+2020-02-08 17:03:48:073 - [HTTP] 
+2020-02-08 17:03:48:142 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source 200 631 ms - 17560
+2020-02-08 17:03:48:142 - [HTTP] 
+2020-02-08 17:03:49:439 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:49:439 - [HTTP] {}
+2020-02-08 17:03:51:155 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:51:155 - [HTTP] {}
+2020-02-08 17:03:51:609 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 2169 ms - 1019542
+2020-02-08 17:03:51:610 - [HTTP] 
+2020-02-08 17:03:52:754 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 1598 ms - 1019542
+2020-02-08 17:03:52:755 - [HTTP] 
+2020-02-08 17:03:52:819 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:52:819 - [HTTP] {}
+2020-02-08 17:03:52:891 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 72 ms - 83
+2020-02-08 17:03:52:892 - [HTTP] 
+2020-02-08 17:03:52:895 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:52:895 - [HTTP] {}
+2020-02-08 17:03:52:931 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot
+2020-02-08 17:03:52:932 - [HTTP] {}
+2020-02-08 17:03:52:984 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 86 ms - 83
+2020-02-08 17:03:52:986 - [HTTP] 
+2020-02-08 17:03:53:005 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:53:006 - [HTTP] {}
+2020-02-08 17:03:55:394 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/screenshot 200 2460 ms - 1019542
+2020-02-08 17:03:55:394 - [HTTP] 
+2020-02-08 17:03:55:523 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 2516 ms - 83
+2020-02-08 17:03:55:523 - [HTTP] 
+2020-02-08 17:03:55:528 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:55:528 - [HTTP] {}
+2020-02-08 17:03:55:933 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 402 ms - 83
+2020-02-08 17:03:55:934 - [HTTP] 
+2020-02-08 17:03:55:958 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:55:958 - [HTTP] {}
+2020-02-08 17:03:56:420 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 462 ms - 83
+2020-02-08 17:03:56:420 - [HTTP] 
+2020-02-08 17:03:56:429 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity
+2020-02-08 17:03:56:430 - [HTTP] {}
+2020-02-08 17:03:56:671 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/appium/device/current_activity 200 241 ms - 83
+2020-02-08 17:03:56:671 - [HTTP] 
+2020-02-08 17:03:56:686 - [HTTP] --> GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source
+2020-02-08 17:03:56:686 - [HTTP] {}
+2020-02-08 17:03:56:791 - [HTTP] <-- GET /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/source 200 105 ms - 17560
+2020-02-08 17:03:56:791 - [HTTP] 
+2020-02-08 17:03:56:811 - [HTTP] --> POST /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/element
+2020-02-08 17:03:56:812 - [HTTP] {"using":"id","value":"com.hotbitmapgg.ohmybilibili:id/et_username"}
+2020-02-08 17:03:56:973 - [HTTP] <-- POST /wd/hub/session/c2e8f89e-f683-490e-8179-2c9ffe6c1e42/element 500 158 ms - 164
+2020-02-08 17:03:56:974 - [HTTP] 

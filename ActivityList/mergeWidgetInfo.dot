@@ -1,0 +1,646 @@
+digraph g {
+    node [shape=box, style=filled, fillcolor=lightblue, fontname="simsun.ttc", fontsize=14];
+    edge [fontname="simsun.ttc", fontsize=12];
+    subgraph cluster_org_wikipedia_main_MainActivity{
+    label = "org_wikipedia_main_MainActivity"
+        10[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/drawer_icon_layout
+        text = 
+        className = android.widget.FrameLayout
+        desc = Open main navigation drawer
+        packageName = 
+        "];
+        11[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/voice_search_button
+        text = 
+        className = android.widget.ImageView
+        desc = Voice input search
+        packageName = 
+        "];
+        12[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/search_container
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        14[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_announcement_action_negative
+        text = 明白了
+        className = android.widget.Button
+        desc = 
+        packageName = 
+        "];
+        15[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_static_card_container
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        30[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_tabs
+        text = 
+        className = android.widget.FrameLayout
+        desc = 显示标签页
+        packageName = 
+        "];
+        32[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_static_card_action_container
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        33[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_static_card_action_overflow
+        text = 
+        className = android.widget.ImageView
+        desc = 更多选项
+        packageName = 
+        "];
+        34[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        44[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.FrameLayout
+        desc = 探索
+        packageName = 
+        "];
+        45[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_announcement_action_positive
+        text = 自定义
+        className = android.widget.Button
+        desc = 
+        packageName = 
+        "];
+        46[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.FrameLayout
+        desc = 我的列表
+        packageName = 
+        "];
+        47[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_search_lists
+        text = 
+        className = android.widget.TextView
+        desc = 搜索我的列表及条目
+        packageName = 
+        "];
+        48[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_overflow_button
+        text = 
+        className = android.widget.TextView
+        desc = 更多选项
+        packageName = 
+        "];
+        49[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_onboarding_text
+        text = 阅读列表现在可以跨设备同步。登录您的维基百科账户并允许保存您的列表吧。
+        className = android.widget.TextView
+        desc = 
+        packageName = 
+        "];
+        50[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_onboarding_action_negative
+        text = 明白了
+        className = android.widget.Button
+        desc = 
+        packageName = 
+        "];
+        51[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.view.View
+        desc = 
+        packageName = 
+        "];
+        58[label = "behavior = sendKeyEvent
+        arg = [3]
+        index = -1
+        id = 
+        text = 
+        className = 
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_feed_configure_ConfigureActivity{
+    label = "org_wikipedia_feed_configure_ConfigureActivity"
+        38[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.ImageView
+        desc = 更多选项
+        packageName = 
+        "];
+        39[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        40[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/feed_content_type_checkbox
+        text = 开启
+        className = android.widget.Switch
+        desc = 
+        packageName = 
+        "];
+        41[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/feed_content_type_checkbox
+        text = 关闭
+        className = android.widget.Switch
+        desc = 
+        packageName = 
+        "];
+        42[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/feed_content_type_lang_list_click_target
+        text = 
+        className = android.widget.TextView
+        desc = 
+        packageName = 
+        "];
+        43[label = "behavior = sendKeyEvent
+        arg = [4]
+        index = -1
+        id = 
+        text = 
+        className = 
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_{
+    label = ""
+        59[label = "Start        "];
+    }
+    subgraph cluster_org_wikipedia_readinglist_ReadingListActivity{
+    label = "org_wikipedia_readinglist_ReadingListActivity"
+        52[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_search_lists
+        text = 
+        className = android.widget.TextView
+        desc = 搜索我的列表及条目
+        packageName = 
+        "];
+        53[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_sort_options
+        text = 
+        className = android.widget.TextView
+        desc = 排序
+        packageName = 
+        "];
+        54[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.ImageView
+        desc = 更多选项
+        packageName = 
+        "];
+        55[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/item_overflow_menu
+        text = 
+        className = android.widget.ImageView
+        desc = 更多选项
+        packageName = 
+        "];
+        56[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        57[label = "behavior = sendKeyEvent
+        arg = [4]
+        index = -1
+        id = 
+        text = 
+        className = 
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_random_RandomActivity{
+    label = "org_wikipedia_random_RandomActivity"
+        35[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_wiki_error_button
+        text = 重试
+        className = android.widget.Button
+        desc = 
+        packageName = 
+        "];
+        36[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/random_next_button
+        text = 
+        className = android.widget.ImageButton
+        desc = 加载另一个随机条目
+        packageName = 
+        "];
+        37[label = "behavior = sendKeyEvent
+        arg = [4]
+        index = -1
+        id = 
+        text = 
+        className = 
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_language_LanguagesListActivity{
+    label = "org_wikipedia_language_LanguagesListActivity"
+        3[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_search_language
+        text = 
+        className = android.widget.TextView
+        desc = 搜索一种语言
+        packageName = 
+        "];
+        4[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_search_SearchActivity{
+    label = "org_wikipedia_search_SearchActivity"
+        13[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.ImageButton
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_page_tabs_TabActivity{
+    label = "org_wikipedia_page_tabs_TabActivity"
+        25[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/tab_counts_view
+        text = 
+        className = android.widget.FrameLayout
+        desc = 返回
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_settings_languages_WikipediaLanguagesActivity{
+    label = "org_wikipedia_settings_languages_WikipediaLanguagesActivity"
+        2[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        5[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.ImageView
+        desc = 更多选项
+        packageName = 
+        "];
+        6[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/menu_delete_selected
+        text = 
+        className = android.widget.TextView
+        desc = 删除选项
+        packageName = 
+        "];
+        7[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/wiki_language_checkbox
+        text = 
+        className = android.widget.CheckBox
+        desc = 
+        packageName = 
+        "];
+        8[label = "behavior = sendKeyEvent
+        arg = [4]
+        index = -1
+        id = 
+        text = 
+        className = 
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_page_PageActivity{
+    label = "org_wikipedia_page_PageActivity"
+        16[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_wiki_error_button
+        text = 重试
+        className = android.widget.Button
+        desc = 
+        packageName = 
+        "];
+        17[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/article_menu_bookmark
+        text = 
+        className = android.widget.ImageView
+        desc = 添加此条目至阅读列表
+        packageName = 
+        "];
+        18[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/article_menu_share
+        text = 
+        className = android.widget.ImageView
+        desc = 分享条目链接
+        packageName = 
+        "];
+        19[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/article_menu_change_language
+        text = 
+        className = android.widget.ImageView
+        desc = 更改语言
+        packageName = 
+        "];
+        20[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/article_menu_find_in_page
+        text = 
+        className = android.widget.ImageView
+        desc = 在页面中查找
+        packageName = 
+        "];
+        21[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/article_menu_font_and_theme
+        text = 
+        className = android.widget.ImageView
+        desc = 字体与主题
+        packageName = 
+        "];
+        22[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/article_menu_show_toc
+        text = 
+        className = android.widget.ImageView
+        desc = 目录
+        packageName = 
+        "];
+        23[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/page_toolbar_button_search
+        text = 
+        className = android.widget.ImageView
+        desc = 搜索维基百科
+        packageName = 
+        "];
+        24[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/page_toolbar_button_tabs
+        text = 
+        className = android.widget.FrameLayout
+        desc = 显示标签页
+        packageName = 
+        "];
+        26[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/page_toolbar_button_show_overflow_menu
+        text = 
+        className = android.widget.ImageView
+        desc = 更多选项
+        packageName = 
+        "];
+        27[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/page_action_overflow_forward
+        text = 
+        className = android.widget.ImageView
+        desc = 前进
+        packageName = 
+        "];
+        28[label = "behavior = click
+        arg = null
+        index = -1
+        id = 
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        29[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/page_action_overflow_feed
+        text = 探索
+        className = android.widget.TextView
+        desc = 
+        packageName = 
+        "];
+        31[label = "behavior = sendKeyEvent
+        arg = [4]
+        index = -1
+        id = 
+        text = 
+        className = 
+        desc = 
+        packageName = 
+        "];
+    }
+    subgraph cluster_org_wikipedia_onboarding_InitialOnboardingActivity{
+    label = "org_wikipedia_onboarding_InitialOnboardingActivity"
+        0[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/view_onboarding_page_secondary_text
+        text = 我们在您的设备上找到以下语言：
+        className = android.widget.TextView
+        desc = 
+        packageName = 
+        "];
+        1[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/add_lang_container
+        text = 
+        className = android.widget.LinearLayout
+        desc = 
+        packageName = 
+        "];
+        9[label = "behavior = click
+        arg = null
+        index = -1
+        id = org.wikipedia.alpha:id/fragment_onboarding_skip_button
+        text = 跳过
+        className = android.widget.Button
+        desc = 
+        packageName = 
+        "];
+    }
+    0->1;
+    1->2;
+    2->2;
+    2->3;
+    2->6;
+    2->7;
+    3->4;
+    4->5;
+    5->2;
+    6->7;
+    7->2;
+    7->8;
+    8->8;
+    8->9;
+    9->10;
+    10->11;
+    11->12;
+    12->13;
+    13->14;
+    13->24;
+    14->15;
+    15->16;
+    15->35;
+    16->17;
+    17->18;
+    18->19;
+    19->20;
+    20->21;
+    21->22;
+    22->23;
+    23->13;
+    24->25;
+    25->26;
+    26->27;
+    27->28;
+    28->29;
+    29->30;
+    30->31;
+    31->32;
+    31->33;
+    32->31;
+    32->37;
+    33->34;
+    34->15;
+    34->38;
+    35->35;
+    35->36;
+    36->37;
+    37->32;
+    37->33;
+    38->39;
+    39->40;
+    39->43;
+    40->41;
+    40->42;
+    40->40;
+    40->39;
+    41->42;
+    42->40;
+    43->44;
+    43->46;
+    44->45;
+    45->43;
+    46->47;
+    47->48;
+    48->49;
+    49->50;
+    50->51;
+    51->52;
+    52->53;
+    53->54;
+    54->55;
+    55->56;
+    56->57;
+    57->57;
+    57->58;
+    59->0;
+}

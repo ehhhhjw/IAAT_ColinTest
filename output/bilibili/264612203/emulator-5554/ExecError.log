@@ -1,0 +1,19 @@
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.hotbitmapgg.ohmybilibili' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Cannot start the 'com.hotbitmapgg.ohmybilibili' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Activity name '.com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.72 seconds
+Build info: version: '2.41.0', revision: '3192d8a6c4449dc285928ba024779344f5423c58', time: '2014-03-27 11:29:39'
+System info: host: 'DESKTOP-LJRJ9IT', ip: '192.168.172.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.AppiumDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:81)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:43)
+	at mergeTest.MergeTest.initDriver(UpocTest.java:385)
+	at mergeTest.MergeTest.run(UpocTest.java:98)

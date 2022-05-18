@@ -1,0 +1,8 @@
+2020-02-08 17:03:44,958 mergeTest.DFSRunner - Sleep 2 seconds
+2020-02-08 17:03:47,061 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/et_username, Tested: false , Father: Null
+2020-02-08 17:03:47,062 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/et_password, Tested: false , Father: Null
+2020-02-08 17:03:47,062 mergeTest.DFSRunner - com.hotbitmapgg.ohmybilibili:id/btn_login, Tested: false , Father: Null
+2020-02-08 17:03:48,144 mergeTest.DFSRunner - Sleep 3 seconds
+2020-02-08 17:03:55,938 mergeTest.DFSRunner - Screenshot has been saved successfully
+2020-02-08 17:03:56,797 mergeTest.DFSRunner - .Launcher's index is 0/3
+2020-02-08 17:03:56,798 mergeTest.DFSRunner - Try to locate com.hotbitmapgg.ohmybilibili:id/et_username

@@ -1,0 +1,16 @@
+Performing Push Install
+apk\Bilibili.apk: 1 file pushed. 5.8 MB/s (9405988 bytes in 1.538s)
+	pkg: /data/local/tmp/Bilibili.apk
+
+Failure [INSTALL_FAILED_ALREADY_EXISTS]
+
+java.lang.Exception: call exit callstack! code=1
+
+	at java.lang.System.exit(System.java:638)
+
+	at com.android.commands.pm.Pm.main(Pm.java:109)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+

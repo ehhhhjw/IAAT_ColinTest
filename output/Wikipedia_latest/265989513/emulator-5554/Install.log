@@ -1,0 +1,16 @@
+Performing Push Install
+apk\Wikipedia_latest.apk: 1 file pushed. 2.5 MB/s (9762608 bytes in 3.747s)
+	pkg: /data/local/tmp/Wikipedia_latest.apk
+
+Failure [INSTALL_FAILED_ALREADY_EXISTS]
+
+java.lang.Exception: call exit callstack! code=1
+
+	at java.lang.System.exit(System.java:638)
+
+	at com.android.commands.pm.Pm.main(Pm.java:109)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+

@@ -1,0 +1,23 @@
+digraph G{ 
+InitialOnboardingActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.onboarding.InitialOnboardingActivity.jpg"];
+WikipediaLanguagesActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.settings.languages.WikipediaLanguagesActivity.jpg"];
+InitialOnboardingActivity->WikipediaLanguagesActivity;
+LanguagesListActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.language.LanguagesListActivity.jpg"];
+WikipediaLanguagesActivity->LanguagesListActivity;
+MainActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.main.MainActivity.jpg"];
+InitialOnboardingActivity->MainActivity;
+SearchActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.search.SearchActivity.jpg"];
+MainActivity->SearchActivity;
+PageActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.page.PageActivity.jpg"];
+MainActivity->PageActivity;
+SearchActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.search.SearchActivity.jpg"];
+PageActivity->SearchActivity;
+TabActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.page.tabs.TabActivity.jpg"];
+PageActivity->TabActivity;
+RandomActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.random.RandomActivity.jpg"];
+MainActivity->RandomActivity;
+ConfigureActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.feed.configure.ConfigureActivity.jpg"];
+MainActivity->ConfigureActivity;
+ReadingListActivity[fontsize="70" shapefile="NodeScreenShots\emulator-5554\org.wikipedia.readinglist.ReadingListActivity.jpg"];
+MainActivity->ReadingListActivity;
+} 

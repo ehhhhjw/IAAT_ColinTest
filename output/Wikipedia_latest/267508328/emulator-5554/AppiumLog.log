@@ -1,0 +1,15 @@
+2020-02-08 17:34:32:813 - [Appium] Welcome to Appium v1.9.1
+2020-02-08 17:34:32:815 - [Appium] Non-default server args:
+2020-02-08 17:34:32:816 - [Appium]   address: 127.0.0.1
+2020-02-08 17:34:32:816 - [Appium]   port: 4730
+2020-02-08 17:34:32:817 - [Appium]   log: output\Wikipedia_latest\267508328\emulator-5554\ExceptionLog.log
+2020-02-08 17:34:32:817 - [Appium]   loglevel: info:error
+2020-02-08 17:34:32:817 - [Appium]   logTimestamp: true
+2020-02-08 17:34:32:817 - [Appium]   localTimezone: true
+2020-02-08 17:34:32:818 - [Appium]   logNoColors: true
+2020-02-08 17:34:32:818 - [Appium]   udid: emulator-5554
+2020-02-08 17:34:32:818 - [Appium] Deprecated server args:
+2020-02-08 17:34:32:819 - [Appium]   -U,--udid => --default-capabilities '{"udid":"emulator-5554"}'
+2020-02-08 17:34:32:819 - [Appium] Default capabilities, which will be added to each request unless overridden by desired capabilities:
+2020-02-08 17:34:32:819 - [Appium]   udid: emulator-5554
+2020-02-08 17:34:32:895 - [Appium] Appium REST http interface listener started on 127.0.0.1:4730

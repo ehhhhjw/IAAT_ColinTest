@@ -1,0 +1,6 @@
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hotbitmapgg.ohmybilibili/com.hotbitmapgg.bilibili.module.common.SplashActivity label= icon= }
+
+Error type 3
+
+Error: Activity class {com.hotbitmapgg.ohmybilibili/com.hotbitmapgg.bilibili.module.common.SplashActivity label= icon=} does not exist.
+

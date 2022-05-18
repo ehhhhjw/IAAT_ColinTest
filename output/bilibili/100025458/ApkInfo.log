@@ -1,0 +1,9 @@
+label=bilibili
+sdkVersion=21
+targetSdkVersion=25
+versionName=2.3.1
+minSdkVersion=null
+iconUrl=http://mooctest-enterprise-site.oss-cn-shanghai.aliyuncs.com/trace_data/bilibili/icon.png
+packageName=com.hotbitmapgg.ohmybilibili
+startTime=2019年2月6日 17:54:19
+endTime=2019年2月6日 17:55:47

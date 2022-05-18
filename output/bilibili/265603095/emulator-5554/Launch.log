@@ -1,0 +1,14 @@
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hotbitmapgg.ohmybilibili/com.hotbitmapgg.bilibili.module.common.SplashActivity }
+
+Status: ok
+
+Activity: com.hotbitmapgg.ohmybilibili/com.hotbitmapgg.bilibili.module.common.SplashActivity
+
+ThisTime: 525
+
+TotalTime: 525
+
+WaitTime: 565
+
+Complete
+

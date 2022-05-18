@@ -1,0 +1,91 @@
+2020-02-08 16:46:13:422 - [Appium] Welcome to Appium v1.9.1
+2020-02-08 16:46:13:424 - [Appium] Non-default server args:
+2020-02-08 16:46:13:425 - [Appium]   address: 127.0.0.1
+2020-02-08 16:46:13:426 - [Appium]   port: 4730
+2020-02-08 16:46:13:426 - [Appium]   log: output\Bilibili\264612203\emulator-5554\ExceptionLog.log
+2020-02-08 16:46:13:426 - [Appium]   loglevel: info:error
+2020-02-08 16:46:13:427 - [Appium]   logTimestamp: true
+2020-02-08 16:46:13:427 - [Appium]   localTimezone: true
+2020-02-08 16:46:13:428 - [Appium]   logNoColors: true
+2020-02-08 16:46:13:429 - [Appium]   udid: emulator-5554
+2020-02-08 16:46:13:430 - [Appium] Deprecated server args:
+2020-02-08 16:46:13:430 - [Appium]   -U,--udid => --default-capabilities '{"udid":"emulator-5554"}'
+2020-02-08 16:46:13:431 - [Appium] Default capabilities, which will be added to each request unless overridden by desired capabilities:
+2020-02-08 16:46:13:431 - [Appium]   udid: emulator-5554
+2020-02-08 16:46:13:520 - [Appium] Appium REST http interface listener started on 127.0.0.1:4730
+2020-02-08 16:46:34:500 - [HTTP] --> POST /wd/hub/session
+2020-02-08 16:46:34:500 - [HTTP] {"desiredCapabilities":{"app":"D:\\myWorkSpace\\mergeTest\\apk\\Bilibili.apk","appPackage":"com.hotbitmapgg.ohmybilibili","appActivity":"com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='","newCommandTimeout":600,"platformVersion":"4.1.2","browserName":"","unicodeKeyboard":"true","platformName":"Android","udid":"emulator-5554","deviceName":"Android Emulator","resetKeyboard":"true"}}
+2020-02-08 16:46:34:508 - [Appium] Creating new AndroidDriver (v4.1.1) session
+2020-02-08 16:46:34:509 - [Appium] Capabilities:
+2020-02-08 16:46:34:509 - [Appium]   udid: emulator-5554
+2020-02-08 16:46:34:509 - [Appium]   app: D:\myWorkSpace\mergeTest\apk\Bilibili.apk
+2020-02-08 16:46:34:509 - [Appium]   appPackage: com.hotbitmapgg.ohmybilibili
+2020-02-08 16:46:34:509 - [Appium]   appActivity: com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='
+2020-02-08 16:46:34:510 - [Appium]   newCommandTimeout: 600
+2020-02-08 16:46:34:510 - [Appium]   platformVersion: 4.1.2
+2020-02-08 16:46:34:510 - [Appium]   browserName: 
+2020-02-08 16:46:34:510 - [Appium]   unicodeKeyboard: true
+2020-02-08 16:46:34:510 - [Appium]   platformName: Android
+2020-02-08 16:46:34:510 - [Appium]   deviceName: Android Emulator
+2020-02-08 16:46:34:511 - [Appium]   resetKeyboard: true
+2020-02-08 16:46:34:516 - [BaseDriver] Capability 'unicodeKeyboard' changed from string to boolean. This may cause unexpected behavior
+2020-02-08 16:46:34:517 - [BaseDriver] Capability 'resetKeyboard' changed from string to boolean. This may cause unexpected behavior
+2020-02-08 16:46:34:523 - [BaseDriver] Session created with session id: e290ecc6-195a-45b5-ad2e-4b756213e908
+2020-02-08 16:46:34:652 - [AndroidDriver] Java version is: 1.8.0_231
+2020-02-08 16:46:34:654 - [ADB] Checking whether adb is present
+2020-02-08 16:46:34:658 - [ADB] Found 3 'build-tools' folders under 'D:\android-sdk-windows' (newest first):
+2020-02-08 16:46:34:658 - [ADB]     D:/android-sdk-windows/build-tools/29.0.2
+2020-02-08 16:46:34:658 - [ADB]     D:/android-sdk-windows/build-tools/29.0.0
+2020-02-08 16:46:34:658 - [ADB]     D:/android-sdk-windows/build-tools/24.0.0
+2020-02-08 16:46:34:659 - [ADB] Using adb.exe from D:\android-sdk-windows\platform-tools\adb.exe
+2020-02-08 16:46:34:659 - [AndroidDriver] Retrieving device list
+2020-02-08 16:46:34:705 - [AndroidDriver] Using device: emulator-5554
+2020-02-08 16:46:34:754 - [BaseDriver] Using local app 'D:\myWorkSpace\mergeTest\apk\Bilibili.apk'
+2020-02-08 16:46:34:755 - [AndroidDriver] Starting Android session
+2020-02-08 16:46:35:034 - [ADB] Checking whether aapt is present
+2020-02-08 16:46:35:036 - [ADB] Using aapt.exe from D:\android-sdk-windows\build-tools\29.0.2\aapt.exe
+2020-02-08 16:46:35:486 - [AndroidDriver] setDeviceLanguageCountry requires language or country.
+2020-02-08 16:46:35:486 - [AndroidDriver] Got language: 'null' and country: 'null'
+2020-02-08 16:46:37:022 - [ADB] Getting device platform version
+2020-02-08 16:46:37:469 - [AndroidDriver] Capability 'appActivity' is expected to only include latin letters, digits, underscore, dot, comma and asterisk characters.
+2020-02-08 16:46:37:470 - [AndroidDriver] Current value 'com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='' has non-matching character at index 53: 'com.hotbitmapgg.bilibili.module.common.SplashActivity''
+2020-02-08 16:46:42:661 - [ADB] Successfully extracted 207 strings from 'D:\myWorkSpace\mergeTest\apk\Bilibili.apk' resources for '(default)' configuration
+2020-02-08 16:46:43:020 - [ADB] No uiautomator process found to kill, continuing...
+2020-02-08 16:46:43:261 - [AndroidBootstrap] Android bootstrap socket is now connected
+2020-02-08 16:46:43:337 - [AndroidDriver] Screen already unlocked, doing nothing
+2020-02-08 16:46:45:709 - [ADB] No uiautomator process found to kill, continuing...
+2020-02-08 16:46:46:073 - [HTTP] <-- POST /wd/hub/session 500 11572 ms - 749
+2020-02-08 16:46:46:073 - [HTTP] 
+2020-02-08 16:46:46:110 - [HTTP] --> POST /wd/hub/session
+2020-02-08 16:46:46:110 - [HTTP] {"desiredCapabilities":{"app":"D:\\myWorkSpace\\mergeTest\\apk\\Bilibili.apk","appPackage":"com.hotbitmapgg.ohmybilibili","appActivity":"com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='","newCommandTimeout":600,"platformVersion":"4.1.2","browserName":"","unicodeKeyboard":"true","platformName":"Android","udid":"emulator-5554","deviceName":"Android Emulator","resetKeyboard":"true"}}
+2020-02-08 16:46:46:111 - [Appium] Creating new AndroidDriver (v4.1.1) session
+2020-02-08 16:46:46:112 - [Appium] Capabilities:
+2020-02-08 16:46:46:112 - [Appium]   udid: emulator-5554
+2020-02-08 16:46:46:112 - [Appium]   app: D:\myWorkSpace\mergeTest\apk\Bilibili.apk
+2020-02-08 16:46:46:112 - [Appium]   appPackage: com.hotbitmapgg.ohmybilibili
+2020-02-08 16:46:46:112 - [Appium]   appActivity: com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='
+2020-02-08 16:46:46:112 - [Appium]   newCommandTimeout: 600
+2020-02-08 16:46:46:112 - [Appium]   platformVersion: 4.1.2
+2020-02-08 16:46:46:112 - [Appium]   browserName: 
+2020-02-08 16:46:46:113 - [Appium]   unicodeKeyboard: true
+2020-02-08 16:46:46:113 - [Appium]   platformName: Android
+2020-02-08 16:46:46:113 - [Appium]   deviceName: Android Emulator
+2020-02-08 16:46:46:113 - [Appium]   resetKeyboard: true
+2020-02-08 16:46:46:114 - [BaseDriver] Capability 'unicodeKeyboard' changed from string to boolean. This may cause unexpected behavior
+2020-02-08 16:46:46:114 - [BaseDriver] Capability 'resetKeyboard' changed from string to boolean. This may cause unexpected behavior
+2020-02-08 16:46:46:116 - [BaseDriver] Session created with session id: 6d0549de-874d-42d9-9f2a-d7feb8ef025b
+2020-02-08 16:46:46:225 - [AndroidDriver] Java version is: 1.8.0_231
+2020-02-08 16:46:46:226 - [AndroidDriver] Retrieving device list
+2020-02-08 16:46:46:272 - [AndroidDriver] Using device: emulator-5554
+2020-02-08 16:46:46:324 - [BaseDriver] Using local app 'D:\myWorkSpace\mergeTest\apk\Bilibili.apk'
+2020-02-08 16:46:46:325 - [AndroidDriver] Starting Android session
+2020-02-08 16:46:46:992 - [AndroidDriver] setDeviceLanguageCountry requires language or country.
+2020-02-08 16:46:46:992 - [AndroidDriver] Got language: 'null' and country: 'null'
+2020-02-08 16:46:48:463 - [ADB] Getting device platform version
+2020-02-08 16:46:48:913 - [AndroidDriver] Capability 'appActivity' is expected to only include latin letters, digits, underscore, dot, comma and asterisk characters.
+2020-02-08 16:46:48:913 - [AndroidDriver] Current value 'com.hotbitmapgg.bilibili.module.common.SplashActivity'  label='' icon='' has non-matching character at index 53: 'com.hotbitmapgg.bilibili.module.common.SplashActivity''
+2020-02-08 16:46:49:246 - [AndroidDriver] Performing fast reset on 'com.hotbitmapgg.ohmybilibili'
+2020-02-08 16:46:50:049 - [ADB] Successfully extracted 207 strings from 'D:\myWorkSpace\mergeTest\apk\Bilibili.apk' resources for '(default)' configuration
+2020-02-08 16:46:50:254 - [ADB] No uiautomator process found to kill, continuing...
+2020-02-08 16:46:50:388 - [AndroidBootstrap] Android bootstrap socket is now connected
+2020-02-08 16:46:50:442 - [AndroidDriver] Screen already unlocked, doing nothing
