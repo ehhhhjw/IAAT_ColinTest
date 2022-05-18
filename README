@@ -1,4 +1,4 @@
-Appium项目，以我们平台的测试任务为例。下载任务后，将依赖的jar包替换为项目AppiumJavaClient1.3.0.rar和SeleniumJavaClient2.42.1.rar。
+Appium项目，以我们平台的测试任务为例。下载任务后，将依赖的jar包替换为项目AppiumJavaClient1.3.0.rar。
 运行后，操作流文件会自动生成在项目的mooctest文件夹下，以运行时间命名。
 
 这俩项目可能会有一些配置问题，比如他们分别还会依赖一些jar包，都放在文件夹里了，但是具体的引用文件，在你下载后需要改里面的地址位置，根据自己计算机上的位置。主要是改.classpath文件。
